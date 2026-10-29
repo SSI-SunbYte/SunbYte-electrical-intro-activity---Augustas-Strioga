@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Adafruit IMU") (type "KiCad") (uri "/Users/striogaitis/Downloads/2472/2472.kicad_sym") (options "") (descr ""))
+)
